@@ -1,12 +1,11 @@
 import cv2
 import time
-from onnxocr.onnx_paddleocr import ONNXPaddleOcr,sav2Img
 import sys
-import time
 import torch
 import numpy as np
-from utils.utils_doctr_plus import *
-from utils.utils_gcdrnet import *
+from onnxocr.onnx_paddleocr import ONNXPaddleOcr, sav2Img
+from utils.utils_doctr_plus import DocTr_Plus
+from utils.utils_gcdrnet import convert_state_dict, stride_integral
 from model.unext import UNext_full_resolution_padding, UNext_full_resolution_padding_L_py_L
 #固定到onnx路径·
 # sys.path.append('./paddle_to_onnx/onnx')
