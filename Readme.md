@@ -308,13 +308,6 @@ A: 日志系统自动轮转，保留最近5个文件，每个最大10MB
 
 欢迎提交 Issue 和 Pull Request！
 
-## 📮 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 提交 Issue: [GitHub Issues](https://github.com/your-repo/ComboOCR/issues)
-- Email: your-email@example.com
-
 ---
 
 **ComboOCR v2.0** - 让文字识别更简单、更安全、更高效！

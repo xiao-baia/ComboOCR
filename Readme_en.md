@@ -308,13 +308,6 @@ This project is licensed under the license specified in [LICENSE](./LICENSE).
 
 Issues and Pull Requests are welcome!
 
-## 📮 Contact
-
-For questions or suggestions, please contact via:
-
-- Submit Issue: [GitHub Issues](https://github.com/your-repo/ComboOCR/issues)
-- Email: your-email@example.com
-
 ---
 
 **ComboOCR v2.0** - Making text recognition simpler, safer, and more efficient!
